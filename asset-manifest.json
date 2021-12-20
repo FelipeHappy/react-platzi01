@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-platzi01/static/css/main.5cbea608.chunk.css",
+    "main.js": "/react-platzi01/static/js/main.e68d0cdd.chunk.js",
+    "main.js.map": "/react-platzi01/static/js/main.e68d0cdd.chunk.js.map",
+    "runtime-main.js": "/react-platzi01/static/js/runtime-main.03f6a4c8.js",
+    "runtime-main.js.map": "/react-platzi01/static/js/runtime-main.03f6a4c8.js.map",
+    "static/js/2.6e428b76.chunk.js": "/react-platzi01/static/js/2.6e428b76.chunk.js",
+    "static/js/2.6e428b76.chunk.js.map": "/react-platzi01/static/js/2.6e428b76.chunk.js.map",
+    "index.html": "/react-platzi01/index.html",
+    "static/css/main.5cbea608.chunk.css.map": "/react-platzi01/static/css/main.5cbea608.chunk.css.map",
+    "static/js/2.6e428b76.chunk.js.LICENSE.txt": "/react-platzi01/static/js/2.6e428b76.chunk.js.LICENSE.txt",
+    "static/media/checkIconSVG.0d3ae0b7.svg": "/react-platzi01/static/media/checkIconSVG.0d3ae0b7.svg",
+    "static/media/deleteIconSVG.d3b65bdb.svg": "/react-platzi01/static/media/deleteIconSVG.d3b65bdb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03f6a4c8.js",
+    "static/js/2.6e428b76.chunk.js",
+    "static/css/main.5cbea608.chunk.css",
+    "static/js/main.e68d0cdd.chunk.js"
+  ]
+}
